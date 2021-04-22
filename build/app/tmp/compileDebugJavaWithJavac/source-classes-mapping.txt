@@ -1,4 +1,2 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
 com/peres/nlw_5/BuildConfig.java
  com.peres.nlw_5.BuildConfig
